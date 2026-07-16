@@ -5,8 +5,15 @@ description = "Add your description here"
 readme = "README.md"
 requires-python = ">=3.12"
 dependencies = [
+    "albumentations>=2.0.8",
     "matplotlib>=3.11.0",
     "numpy>=2.5.1",
+    "nvidia-cuda-runtime-cu12>=12.9.79",
+    "nvidia-cudnn-cu12>=9.24.0.43",
+    "opencv-python>=5.0.0.93",
+    "pandas>=3.0.3",
     "pypnm>=2.30.12.34.post1",
+    "scikit-learn>=1.9.0",
+    "tensorflow>=2.21.0",
     "torch>=2.13.0",
 ]

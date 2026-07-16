@@ -10,3 +10,5 @@ wheels/
 .venv
 
 **/MIASDBv1.21
+**weights.h5
+**10.bc
